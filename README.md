@@ -10,6 +10,7 @@ This project simulates hospital triage and patient flow to analyze factors that 
 - Lists
 - Queues
 - Dictionaries
+- Min-Heap
 
 ## Algorithms Used
 - Scheduling / Priority-based processing
